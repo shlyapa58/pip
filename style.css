@@ -1,11 +1,10 @@
 body{
-	background-color: bisque;
+	background-color: burlywood;
 }
-
 #htext{
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-weight: 300;
 	display: block;
 text-align: center;
-color: aquamarine;
+color: rgb(94, 8, 82);
 }
